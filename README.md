@@ -17,5 +17,5 @@
 Сам проект предлагает узнать больше о местах в России. 
 Картинки покажуть природные пейзажи России и при открытие ссылки, будет открыватся новая страница браузера с сайтом об этом месте.
 
-[ссылка проекта на GitHub] (https://github.com/VladimiroAntipin/russian-travel)
+[ссылка проекта на GitHub Pages] (https://vladimiroantipin.github.io/russian-travel/index.html)
 
